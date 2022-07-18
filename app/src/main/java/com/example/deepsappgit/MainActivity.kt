@@ -3,6 +3,7 @@ package com.example.deepsappgit
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
+//  comment added (2)
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -15,5 +16,9 @@ class MainActivity : AppCompatActivity() {
 
     fun sub() {
         // sub() added
+    }
+
+    fun mult() {
+        // mult added
     }
 }
