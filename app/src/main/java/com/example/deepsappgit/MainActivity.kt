@@ -17,4 +17,8 @@ class MainActivity : AppCompatActivity() {
     fun sub() {
         // sub() added
     }
+
+    fun mult() {
+        // mult added
+    }
 }
