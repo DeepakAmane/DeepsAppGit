@@ -13,5 +13,7 @@ class MainActivity : AppCompatActivity() {
         // add() added
     }
 
-
+    fun sub() {
+        // sub() added
+    }
 }
